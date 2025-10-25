@@ -1,0 +1,32 @@
+body {background-color:#3e3d3d
+}
+
+h1 {
+    color:#e2a8c9
+    
+}
+
+p {
+    font-size: 25px;
+    color: #524c4f;
+    background-color: #b9b5b9
+  
+}
+
+
+h2 {
+    font-size:xx-large;
+    color:darkgray
+    
+}
+
+.gray-bg {
+    
+   background-color:darkgray
+       
+}
+ul {
+    font-size:larger;
+    color: #985a80
+
+}
