@@ -1,0 +1,103 @@
+body{
+    
+    background-color: pink
+}
+
+
+
+
+.type1{
+      font-family: "Dancing Script", cursive;
+      font-optical-sizing: auto;
+      font-weight: 700;
+      font-size: 50px;
+      text-align: center;
+      line-height: 3;
+      font-style: normal;
+    color: pink;
+    background-color: black;
+    
+}
+
+.type2{
+    
+    font-family: "Playfair Display", serif;
+    font-size: 25px;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    text-align: center;
+    font-style: normal;
+}
+
+.type3{
+    
+     font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    text-align: center;
+    
+    
+    
+}
+
+.type4{
+    
+    font-family: "Exo", sans-serif;
+    font-size: x-large;
+    text-align: center;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style :normal;
+}
+
+.type5{
+    
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    text-align: center;
+    font-style: normal;
+    
+   
+}
+
+.type6{
+    
+    font-family: "BBH Sans Bartle", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+.type7{
+    
+    font-family: "Abril Fatface", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+.type8{
+    
+     font-family: "Titan One", sans-serif;
+     font-weight: 400;
+    font-size: 40px;
+     font-style: normal;
+     text-align: center;
+}
+
+.type9{
+    
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: 5px;
+}
+
+.type10{
+    
+      font-family: "Great Vibes", cursive;
+      font-weight: 400;
+      font-style: normal;}
