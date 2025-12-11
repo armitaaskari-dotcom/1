@@ -1,0 +1,88 @@
+body {
+  font-family: "Bodoni Moda", serif;
+  font-optical-sizing: auto;
+}
+
+.nav1 {
+    float: right;
+}
+
+.outer-box1 {
+    background-image: url(images/banner-img.jpg);
+    background-size: cover;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+    padding-right: 10 px;
+    text-align: center;
+}
+
+.image1 {
+    width: 600px;
+    margin: 0 auto;
+    display: block;
+    clear: both;
+}
+
+.p1 {
+    color: #ffffff;
+    font-size: xx-large;
+}
+
+.outer-box2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+
+.h2 {
+    text-align: center
+}
+
+.p2 {
+    text-align: center;
+    padding-bottom: 20px
+}
+
+.left .h3 .p3 {
+    float: left;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    padding-top: 40px
+}
+
+.right {
+    float: right;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    padding-top: 40px
+}
+
+.image4 {
+    float: left;
+    padding-block: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.image5 {
+    float: right;
+    padding-block: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.button1, .button2, .button3 {
+    font-size: smaller;
+    color:#ffffff;
+    background-color: #00003e;
+    padding: 8px 16px;
+    margin: 30px auto;
+    display: inline-block;
+}
+
+.centre {
+    text-align: center;
+}
